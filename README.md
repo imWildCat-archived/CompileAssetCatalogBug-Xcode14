@@ -75,3 +75,7 @@ CompileAssetCatalog /Users/[username]/Developer/xcode_projects/demos/CompileAsse
 'cyclone' is not a recognized processor for this target (ignoring processor)
 Command CompileAssetCatalog failed with a nonzero exit code
 ```
+
+## License 
+
+MIT
