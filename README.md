@@ -2,6 +2,8 @@
 
 Xcode Version 14.0 beta (14A5228q) has a bug which prevents some SVG images from building into apps.
 
+Update: This bug can only be reproduced on Apple Silicon.
+
 ## Repro Steps
 
 1. Clone this project
